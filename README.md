@@ -8,6 +8,7 @@ ekstraksi fitur dengan **TF-IDF**.
 
 # Dataset
 Dataset asli dari Kaggle: https://www.kaggle.com/datasets/thedevastator/chatgpt-user-feedback
+
 Salinan cadangan: https://drive.google.com/drive/folders/1mE6V0mxLFdVwqiR0R0wK7Z2sGTxCHtG8?hl=id 
 
 # Cara Menggunakan
